@@ -25,6 +25,9 @@ Suggested material: 3mm plywood or 2mm plastic for the 2nd type
 ## Files provided:
 
  - examples/* - example usage photos (coming soon)
+ - k-04_sewon-cut-alt-notext.svg - see below, contains only 2nd type tools
+ - k-04_sewon-cut-alt-raster.png - see below, contains only 2nd type tools
+ - k-04_sewon-cut-alt.svg - see below, contains only 2nd type tools
  - k-04_sewon-cut-notext.svg - cut file to cut the shapes and holes
  - k-04_sewon-cut-raster.png - raster overlay file containing instructions and likes
  - k-04_sewon-cut.svg - cut optimized file (might not be cut directly as includes texts)
