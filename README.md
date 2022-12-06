@@ -39,5 +39,6 @@ Suggested material: 3mm plywood or 2mm plastic for the 2nd type
 
 
 @los.circulos
+instagram.com/los.circulos
 github.com/los-circulos
 #controlline #vuelocircular #uコン #opensource
